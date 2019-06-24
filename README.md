@@ -1,5 +1,7 @@
 # Çatalhöyük Image Metadata with AI
 
+[![DOI](https://zenodo.org/badge/193590676.svg)](https://zenodo.org/badge/latestdoi/193590676)
+
 ## Content
 
 `catal_ai_labels.csv` contains predictions made with various methods about the content of images from the Çatalhöyük Archaeological Project. It also contains a selection of metadata from the original image repository. The following methods were used:
